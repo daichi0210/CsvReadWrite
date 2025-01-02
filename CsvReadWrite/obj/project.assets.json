@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net6.0-windows7.0": {}
+    "net6.0-windows7.0": {
+      "Csv/2.0.93": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/Csv.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Csv.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Csv/2.0.93": {
+      "sha512": "3KD+VCDn1yKZFrGgi7KS8BxqfpFbX3Pfz+jqHq6a1A/V9HvSmn3VazlSLdOu6Whiopso3lcUhgL4qkalBgIz1Q==",
+      "type": "package",
+      "path": "csv/2.0.93",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "csv.2.0.93.nupkg.sha512",
+        "csv.nuspec",
+        "icon.png",
+        "lib/net40/Csv.dll",
+        "lib/net40/Csv.xml",
+        "lib/netcoreapp3.1/Csv.dll",
+        "lib/netcoreapp3.1/Csv.xml",
+        "lib/netstandard1.0/Csv.dll",
+        "lib/netstandard1.0/Csv.xml",
+        "lib/netstandard2.1/Csv.dll",
+        "lib/netstandard2.1/Csv.xml"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0-windows7.0": []
+    "net6.0-windows7.0": [
+      "Csv >= 2.0.93"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\nora\\.nuget\\packages\\": {},
@@ -56,6 +93,12 @@
     "frameworks": {
       "net6.0-windows7.0": {
         "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "Csv": {
+            "target": "Package",
+            "version": "[2.0.93, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

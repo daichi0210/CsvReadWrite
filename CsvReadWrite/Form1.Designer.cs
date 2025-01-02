@@ -83,6 +83,7 @@
             buttonCsvRead.TabIndex = 3;
             buttonCsvRead.Text = "CSV取得";
             buttonCsvRead.UseVisualStyleBackColor = true;
+            buttonCsvRead.Click += buttonCsvRead_Click;
             // 
             // buttonCsvWrite
             // 
@@ -93,6 +94,7 @@
             buttonCsvWrite.TabIndex = 4;
             buttonCsvWrite.Text = "CSV出力";
             buttonCsvWrite.UseVisualStyleBackColor = true;
+            buttonCsvWrite.Click += buttonCsvWrite_Click;
             // 
             // Form1
             // 
