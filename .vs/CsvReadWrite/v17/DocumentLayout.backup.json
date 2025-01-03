@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "D:\\dev\\windows\\src\\repos\\CsvReadWrite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDEB63BE-4679-440B-B4BE-9AF687E49C26}|CsvReadWrite\\CsvReadWrite.csproj|d:\\dev\\windows\\src\\repos\\csvreadwrite\\csvreadwrite\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DDEB63BE-4679-440B-B4BE-9AF687E49C26}|CsvReadWrite\\CsvReadWrite.csproj|d:\\dev\\windows\\src\\repos\\csvreadwrite\\csvreadwrite\\csvsample.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DDEB63BE-4679-440B-B4BE-9AF687E49C26}|CsvReadWrite\\CsvReadWrite.csproj|solutionrelative:csvreadwrite\\csvsample.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEB63BE-4679-440B-B4BE-9AF687E49C26}|CsvReadWrite\\CsvReadWrite.csproj|d:\\dev\\windows\\src\\repos\\csvreadwrite\\csvreadwrite\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEB63BE-4679-440B-B4BE-9AF687E49C26}|CsvReadWrite\\CsvReadWrite.csproj|solutionrelative:csvreadwrite\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEB63BE-4679-440B-B4BE-9AF687E49C26}|CsvReadWrite\\CsvReadWrite.csproj|D:\\dev\\windows\\src\\repos\\CsvReadWrite\\csvreadwrite\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DDEB63BE-4679-440B-B4BE-9AF687E49C26}|CsvReadWrite\\CsvReadWrite.csproj|solutionrelative:csvreadwrite\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -19,14 +27,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CSVSample.csv",
+              "DocumentMoniker": "D:\\dev\\windows\\src\\repos\\CsvReadWrite\\CsvReadWrite\\CSVSample.csv",
+              "RelativeDocumentMoniker": "CsvReadWrite\\CSVSample.csv",
+              "ToolTip": "D:\\dev\\windows\\src\\repos\\CsvReadWrite\\CsvReadWrite\\CSVSample.csv",
+              "RelativeToolTip": "CsvReadWrite\\CSVSample.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-01-03T12:14:03.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\dev\\windows\\src\\repos\\CsvReadWrite\\CsvReadWrite\\Form1.cs",
+              "RelativeDocumentMoniker": "CsvReadWrite\\Form1.cs",
+              "ToolTip": "D:\\dev\\windows\\src\\repos\\CsvReadWrite\\CsvReadWrite\\Form1.cs",
+              "RelativeToolTip": "CsvReadWrite\\Form1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwEUAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T09:44:38.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
               "DocumentMoniker": "D:\\dev\\windows\\src\\repos\\CsvReadWrite\\CsvReadWrite\\Form1.cs",
               "RelativeDocumentMoniker": "CsvReadWrite\\Form1.cs",
               "ToolTip": "D:\\dev\\windows\\src\\repos\\CsvReadWrite\\CsvReadWrite\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
               "RelativeToolTip": "CsvReadWrite\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T12:06:16.546Z",
-              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+              "WhenOpened": "2025-01-01T12:06:16.546Z"
             }
           ]
         }
